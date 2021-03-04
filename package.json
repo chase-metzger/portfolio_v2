@@ -6,7 +6,7 @@
   "main": "gatsby-config.js",
   "author": "Conrad Metzger<cmetzger@bearcubs.santarosa.edu>",
   "dependencies": {
-    "gatsby": "^3.0.2",
+    "gatsby": "2.32.9",
     "gatsby-plugin-mdx": "^2.0.0",
     "gatsby-theme-portfolio": "^1.2.0",
     "react": "^17.0.1",

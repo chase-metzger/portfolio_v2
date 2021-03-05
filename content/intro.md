@@ -1,6 +1,6 @@
 ---
  section: intro
  title: Hi there!
- description: Insert borng stuff here
+ description: Thanks for your interest
  action: Contact me
 ---

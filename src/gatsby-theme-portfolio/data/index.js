@@ -2,7 +2,7 @@ module.exports = {
 	defaultTitle: "Conrad Metzger",
 	logo: "static/favicon/favicon-512.png",
 	author: "Chase Metzger",
-	// url: "https://gatsby-theme-portfolio.smakosh.com",
+	url: "https://conrad-metzger.netlify.app",
 	legalName: "Conrad Metzger",
 	defaultDescription: "Hello there",
 	socialLinks: {
